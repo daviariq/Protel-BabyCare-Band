@@ -1,0 +1,20 @@
+# Dataset (download dari Kaggle, jangan di-push)
+dataset/
+
+# Model files (terlalu besar)
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
