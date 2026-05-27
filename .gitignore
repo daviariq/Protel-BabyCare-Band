@@ -18,3 +18,9 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Dataset detector (ribuan file audio, jangan di-push)
+datasetdetector/
+
+# ESC-50 kalau ada di folder ini
+ESC-50-master/
