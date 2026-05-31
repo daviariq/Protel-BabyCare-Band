@@ -1,26 +1,15 @@
-# Dataset (download dari Kaggle, jangan di-push)
-dataset/
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
 
-# Model files (terlalu besar)
-*.pkl
+# Environment variables
+.env*.local
 
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-env/
-
-# VS Code settings
-.vscode/
-
-# OS files
+# Common ignores
+node_modules
+.next/
 .DS_Store
-Thumbs.db
-
-# Dataset detector (ribuan file audio, jangan di-push)
-datasetdetector/
-
-# ESC-50 kalau ada di folder ini
-ESC-50-master/
