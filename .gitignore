@@ -1,8 +1,8 @@
 # Dataset (download dari Kaggle, jangan di-push)
 dataset/
 
-# Model files (terlalu besar)
-*.pkl
+# Model files (boleh push, ukurannya cuma 3MB)
+# *.pkl
 
 # Python cache
 __pycache__/
